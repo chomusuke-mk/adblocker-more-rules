@@ -33,3 +33,4 @@
 ||morencius.com/ad^
 ||wtaahhalpow.in^
 ||cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js
+||voe.sx##^script:has-text(maintainablespellfinal.com)
