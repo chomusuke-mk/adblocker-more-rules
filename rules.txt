@@ -33,3 +33,4 @@
 ||morencius.com/ad^
 ||wtaahhalpow.in^
 ||maintainablespellfinal.com^
+gupload.xyz##div:has(> a[target="_blank"])
